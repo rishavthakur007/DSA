@@ -1,3 +1,5 @@
+package Greedy_Algo;
+
 import java.util.Arrays;
 
 public class Assign_Cookies {

@@ -1,3 +1,5 @@
+package Greedy_Algo;
+
 public class check_Valid_String {
 
     public boolean checkValidString(String s) {
